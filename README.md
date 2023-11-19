@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MubashraGul
+- 👋 salam, I’m @MubashraGul
 - 👀 I’m interested infomation Security ,Python Devolpeing,Machine learning and Artificial intelligence.
 - 🌱 I’m currently learning basic of Artificial intelligence.
 - 💞️ I’m looking to collaborate on areas where i am intersted.
